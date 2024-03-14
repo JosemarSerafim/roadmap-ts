@@ -48,3 +48,11 @@ tsc index.ts
 ```
 
 - executar o código javascript usando um ambiente de desenvolvimento javascript (nodejs por exemplo);
+
+### tsc
+
+**tsc** é uma ferramenta de linha de comando para o compilador typescript. Ele compila o código typescript em código javascript, tornando-o compatível com os navegadores e qualquer outro ambiente de execução javascript.
+
+### node-ts
+
+É um mecanismo execução typscript e REPL node, com mapa de origem e suporte ESM nativo.

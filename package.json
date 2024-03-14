@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/JosemarSerafim/roadmap-ts#readme",
   "devDependencies": {
+    "@types/node": "^20.11.27",
+    "ts-node": "^10.9.2",
+    "tslib": "^2.6.2",
     "typescript": "^5.4.2"
   }
 }
