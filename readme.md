@@ -99,7 +99,6 @@ function teste(){
 }
 ```
 
-
 ### undefined e null
 
 Valores usado para identificar valores ausentes ou não inicializados.
