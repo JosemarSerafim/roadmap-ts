@@ -56,3 +56,6 @@ tsc index.ts
 ### node-ts
 
 É um mecanismo execução typscript e REPL node, com mapa de origem e suporte ESM nativo.
+
+## Tipos em typescript
+
